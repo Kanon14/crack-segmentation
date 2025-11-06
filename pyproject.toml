@@ -1,0 +1,16 @@
+[project]
+name = "crack-segmentation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cvzone>=1.6.1",
+    "from-root==1.0.2",
+    "gdown>=5.2.0",
+    "lap>=0.5.12",
+    "notebook>=7.4.7",
+    "streamlit>=1.51.0",
+    "supervision>=0.26.1",
+    "ultralytics>=8.3.225",
+]
