@@ -27,8 +27,8 @@ list_of_files = [
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
     "notebooks/trials.ipynb",
-    "static/",
-    "models/",
+    "static/.gitkeep",
+    "models/.gitkeep",
     "app.py",
     "streamlit_app.py",
 ]
